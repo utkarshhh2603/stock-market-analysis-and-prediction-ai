@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+tensorflow
+ta
+yfinance
+scipy
+requests
+textblob
+vaderSentiment
+transformers
+torch
+xgboost
